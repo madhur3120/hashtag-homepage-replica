@@ -1,0 +1,22 @@
+export const imagepath = [
+    '/amazon.svg',
+    '/angular-js.svg',
+    '/bootstrap.svg',
+    '/codeigniter.svg',
+    '/django.svg',
+    '/docker.svg',
+    '/ethereum.svg',
+    '/html5.svg',
+    '/ionic.svg',
+    '/jquery.svg',
+    '/mongodb.svg',
+    '/mysql.svg',
+    '/node-js.svg',
+    '/php.svg',
+    '/python.svg',
+    '/react-js.svg',
+    '/shopify.svg',
+    '/solidity.svg',
+    '/truffle.svg',
+    '/wordpress.svg'
+];
